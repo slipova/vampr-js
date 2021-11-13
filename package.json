@@ -1,7 +1,6 @@
 {
   "name": "vampr",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -10,7 +9,21 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "chai": "^4.1.2",
-    "mocha": "^4.0.1"
-  }
+    "chai": "^4.3.4",
+    "mocha": "^4.1.0"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lighthouse-labs/vampr-js.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/lighthouse-labs/vampr-js/issues"
+  },
+  "homepage": "https://github.com/lighthouse-labs/vampr-js#readme",
+  "description": ""
 }
